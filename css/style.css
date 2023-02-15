@@ -1,0 +1,101 @@
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background: lightslategray;
+}
+li{
+    float: left;
+
+}
+li,a {
+    padding: 10px;
+    margin: 15px;
+ color: navy;
+}
+li a:hover{
+    background: goldenrod;
+}
+th,td{
+    border: 2px dotted teal ;
+    padding: 10px;
+    margin: 10px;
+    font-family: Chilanka;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th{
+    color: goldenrod;
+
+}
+td{
+    color: dimgray;
+
+}
+body{
+    background: blanchedalmond;
+}
+.fruits{
+    border: 2px solid teal;
+    background: rgba(116, 123, 154, 0.84);
+    color: blanchedalmond;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+.cars{
+    border: 2px dotted goldenrod;
+    background: darkslategrey;
+    color: darkcyan;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+.FRUITS {
+    border: 2px solid coral;
+    background: maroon;
+    color: dimgrey;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+#school{
+    border: 5px dotted blueviolet;
+}
+
+label{
+    color: coral;
+    text-align: left;
+    margin: 2px;
+    padding: 20px;
+}
+input{
+    text-align: left;
+}
+#fname,#lname,#email,#dob,#course,#pass,#course,#male,#female,#vehicle3{
+    color: darkcyan;
+    background: goldenrod;
+    padding: 15px;
+}
+body{
+    background: darkslategrey;
+
+}
+form{
+    padding: 20px;
+    border: solid 2px black;
+}
+#reset {
+    margin: 10px;
+}
+h1{
+    color: maroon;
+}
+h2{
+     color: blanchedalmond;
+    font-family: Chilanka;
+}
